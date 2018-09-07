@@ -69,7 +69,7 @@ def setUpDatabase():
     print "Table created successfully\n";
     conn.close()
 
-#this functions handles scoring
+#this functions handles entered data
 def enterNew():
     age = 0
     quit = False
